@@ -1,5 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import products from './assets/product-catalogue.json';
 export default defineNuxtConfig({
+  generate: {
+    routes: products.map((product) => (`/product-catalogue/${product.id}`))
+  },
   app: {
     head: {
       title: 'Vasso Lifestyle | Premium Holders',
