@@ -1,0 +1,300 @@
+[
+  {
+    "id": "541450bc-c9db-4f96-86e3-821822ae3a96",
+    "name": "Holiday Bundle",
+    "primaryDescription": "Perfect for gift giving, right?",
+    "secondaryDescription": "Create your own Christmas bundle. Any 1 flask holder & 1 cupholder set (1 leather & 1 chain) for Php 1,299. Be sure not to miss this holiday deal!",
+    "colorRecommendations": [],
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/featured_products/holiday_bundle/holiday-bundle-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080996462",
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/featured_products/holiday_bundle/317862063_452817040361296_4891486550013206081_n.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080996477",
+      "https://ik.imagekit.io/vassolifestyleassets/featured_products/holiday_bundle/317840098_686681713176796_1586801015802695483_n.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080996480"
+    ],
+    "price": 1299.00,
+    "isDisplayedOnHome": true,
+    "isFeatured": true
+  },
+  {
+    "id": "57ec2995-c730-4777-8deb-114f051fb458",
+    "name": "Nude Collection",
+    "primaryDescription": "Our Nude Collection is sophisticated yet minimalist look in neutral shades - it is made for that afternoon coffee vibe. The classic design is perfect for any woman who wants to make a statement without being over-the-top.",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/nude-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997377",
+    "colorRecommendations": [
+      {
+        "name": "Leopard",
+        "code": "#EB9225"
+      },
+      {
+        "name": "Cream",
+        "code": "#F7F5C9"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "White",
+        "code": "#FFFFFF"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/IMG_1346.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997614",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/IMG_4187.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997551",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/IMG_4278.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997465",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/IMG_4233.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997399",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/nude/IMG_4228.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997447"
+    ],
+    "price": 299.00,
+    "isDisplayedOnHome": true,
+    "isFeatured": true
+  },
+  {
+    "id": "309bd692-208d-423e-808d-78c1bc7d25b5",
+    "name": "Black Collection",
+    "primaryDescription": "The Black Collection is designed to be timeless, with a bold yet understated aesthetic that will elevate your everyday style. Made from the finest quality leather, this range is designed to make a bold statement.",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/black-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997280",
+    "colorRecommendations": [
+      {
+        "name": "Black",
+        "code": "#000000"
+      },
+      {
+        "name": "Silver",
+        "code": "#D3D3D3"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/IMG_4322.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997489",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/IMG_1359.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997283",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/IMG_4288.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997291",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/IMG_1364.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997299",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/black/IMG_4265.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997241"
+    ],
+    "price": 299.00,
+    "isDisplayedOnHome": true,
+    "isFeatured": true
+  },
+  {
+    "id": "ab0f5203-ecd6-4c61-96c7-6955f0d88d7e",
+    "name": "Pink Collection",
+    "primaryDescription": "The Pink Collection is gorgeous and blush-hued pieces that are perfect for pink lovers who want to add a touch of sweetness to their style. This collection adds an extra touch of luxury, making these pieces perfect for any glams who wants to look her best.",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/pink-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997446",
+    "colorRecommendations": [
+      {
+        "name": "Pink",
+        "code": "#F7BAC5"
+      },
+      {
+        "name": "Cream",
+        "code": "#F7F5C9"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/IMG_1350.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997585",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/IMG_4296.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997561",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/IMG_4289.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997520",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/IMG_4309.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997528",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/pink/IMG_4294.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997552"
+    ],
+    "price": 299.00,
+    "isDisplayedOnHome": true,
+    "isFeatured": true
+  },
+  {
+    "id": "f8cd8365-1dba-4e5e-b517-af0fd20fcc91",
+    "name": "Lavender Collection",
+    "primaryDescription": "Our Lavender Collection is a luxurious line of leather goods that is inspired by the color of the year, Very Peri. It is the perfect way to bring a touch of serenity and calm to your aesthetic.",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/lavender/lavender-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997269",
+    "colorRecommendations": [
+      {
+        "name": "Lavender",
+        "code": "#D9AAF6"
+      },
+      {
+        "name": "Cream",
+        "code": "#F7F5C9"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/lavender/IMG_1376.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997325",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/lavender/IMG_1370.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997358",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/lavender/IMG_1375.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997300"
+    ],
+    "price": 299.00
+  },
+  {
+    "id": "dbfc7d2c-3f70-411a-a15e-513d00d76641",
+    "name": "Blue Collection",
+    "primaryDescription": "Our Blue Collection is perfect for those who want to uplift their look with something truly special. The blue color is tranquil and uplifting, making it the perfect choice for a relaxing day at any outdoors.       ",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/blue-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997521",
+    "colorRecommendations": [
+      {
+        "name": "Blue",
+        "code": "#0051AE"
+      },
+      {
+        "name": "Silver",
+        "code": "#D3D3D3"
+      },
+      {
+        "name": "Cream",
+        "code": "#F7F5C9"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      },
+      {
+        "name": "Dark Green",
+        "code": "#022E17"
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/IMG_1379.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997425",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/IMG_1381.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997375",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/IMG_4283.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997334",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/IMG_4318.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997532",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/blue/IMG_1385.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997326"
+    ],
+    "price": 299.00
+  },
+  {
+    "id": "e39419a9-eec4-49b1-9a19-8082f8bf6ecf",
+    "name": "Mint Collection",
+    "primaryDescription": "Our Mint Collection is made from cool-toned hues to vibrant pops of color, our coffee collection is perfect for adding a touch of luxury to your everyday routine. This line of leather products is also perfect for those who love matcha.       ",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/mint/mint-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997398",
+    "colorRecommendations": [
+      {
+        "name": "Mint",
+        "code": "#95E1CA"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      },
+      {
+        "name": "Dark Green",
+        "code": "#022E17"
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/mint/IMG_1390.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997506",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/mint/IMG_1391.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997392"
+    ],
+    "price": 299.00
+  },
+ 
+  {
+    "id": "7a33a4a5-394d-44db-9025-9c2a19ee2ec0",
+    "name": "Chestnut Collection",
+    "primaryDescription": "Our Chestnut Collection is a line of rustic and earthy tones that are perfect for the nature lover. Whether you're looking for something classic or modern, the Chestnut Collection has something for everyone.      ",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/chestnut/chestnut-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997304",
+    "colorRecommendations": [
+      {
+        "name": "Cream",
+        "code": "#F7F5C9"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/chestnut/IMG_1340.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997519",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/chestnut/IMG_1341.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997432",
+      "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/chestnut/IMG_1335.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997278"
+    ],
+    "price": 299.00
+  },
+  {
+    "id": "1ec1874d-a0ec-4363-97d8-78f9a5c36aec",
+    "name": "Yellow Collection",
+    "primaryDescription": "Our Yellow Collection is full of optimistic and creative pieces that will make you feel like it's finally time for brighter days. With brighter days and creativity in mind, this collection is perfect for those who want to add a little extra pep to their step.      ",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/yellow/yellow-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997546",
+    "colorRecommendations": [
+      {
+        "name": "Pale Yellow",
+        "code": "#F5F591"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+    ],
+    "price": 299.00
+  },
+  {
+    "id": "594505f8-1cb8-4406-bb50-dbf6d5a6057d",
+    "name": "Red Collection",
+    "primaryDescription": "Our Red Collection is all about making a bold statement and exuding confidence. The luxurious red leather is beautifully crafted and designed to make you look and feel your best.       ",
+    "secondaryDescription": "Regular cupholder bundled with chain will cost ₱ 549.00. Can be matched with another chain color of your choice, but will be subject to stock availability.",
+    "primaryImageUrl": "https://ik.imagekit.io/vassolifestyleassets/main_product_catalogue/red/red-primary.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670080997488",
+    "colorRecommendations": [
+      {
+        "name": "Red",
+        "code": "#A80000"
+      },
+      {
+        "name": "Gold",
+        "code": "#F7D000"
+      },
+      {
+        "name": "Clear",
+        "code": ""
+      }
+    ],
+    "otherImageUrls": [
+    ],
+    "price": 299.00
+  }
+]

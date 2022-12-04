@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "What are the prices related to your cupholders?",
+    "answer": "Regular cupholders (1 leather & 1 chain) cost ₱ 549.00 while bundled cupholders (1 leather & 2 chains) cost ₱695.00."
+  },
+  {
+    "id": 2,
+    "question": "Can I have a customized name engraved on my order?",
+    "answer": "Yes. Name customization includes an additional fee of ₱ 150.00, but comes as FREE for every purchase of bundles!"
+  },
+  {
+    "id": 3,
+    "question": "Do you accept cash-on-delivery (COD) as payment method?",
+    "answer": "Yes. We accept cash-on-delivery nationwide, except for orders with customized name."
+  },
+  {
+    "id": 4,
+    "question": "Are there any freebies included?",
+    "answer": "Yes. We have the following freebies on all orders: 1 metal straw and 1 cleaning brush."
+  },
+  {
+    "id": 5,
+    "question": "Can I create my own bundle?",
+    "answer": "Yes. You can mix and match according to your aesthetics."
+  },
+  {
+    "id": 6,
+    "question": "Do you ship in Visayas and Mindanao?",
+    "answer": "Yes. We ship nationwide via GoGo Xpress."
+  },
+  {
+    "id": 7,
+    "question": "How long does it take for the order to be shipped?",
+    "answer": "We ship your orders right away once payment has been settled. Expect the following delivery duration: 1-3 days for NCR, 2-4 days for Luzon, 2-5 days for Visayas, and 3-6 days for Mindanao."
+  },
+  {
+    "id": 8,
+    "question": "Do your gold or silver chains fade?",
+    "answer": "Our chains are tarnish-free and does not fade. We provide high-quality aluminum metal for our holders."
+  }
+]
